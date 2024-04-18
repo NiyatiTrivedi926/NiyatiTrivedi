@@ -124,6 +124,12 @@ nav ul li a:hover::after{
 
 }
 
+a:-webkit-any-link {
+    color: #ff004f;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 .tab-links{
     margin-right: 50px;
     font-size: 18px;
