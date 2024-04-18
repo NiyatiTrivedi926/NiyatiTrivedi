@@ -125,7 +125,7 @@ nav ul li a:hover::after{
 }
 
 a:-webkit-any-link {
-    color: #ff004f;
+    color: #fff;
     cursor: pointer;
     text-decoration: underline;
 }
