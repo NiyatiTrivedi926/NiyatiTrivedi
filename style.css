@@ -105,6 +105,12 @@ nav ul li a:hover::after{
     flex-basis: 60%;
   
 }
+
+.tab-contents ul li a{
+    color:#b54769;
+    font-size: 14px;
+}
+
 .sub-title{
     font-size: 60px;
     font-weight: 600;
