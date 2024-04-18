@@ -126,7 +126,7 @@ nav ul li a:hover::after{
 
 }
 
-.tab-contents ul li a{
+.tab-contents ul li a br{
     color:#fff;
     font-size: 14px;
 }
