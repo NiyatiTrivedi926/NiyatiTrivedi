@@ -282,12 +282,6 @@ nav ul li a:hover::after{
 
 }
 
-.layer h4{
-    font-weight: 500;
-    margin-bottom: 20px ;
-
-}
-
 .work:hover img{
     transform: scale(1.1);
 }
